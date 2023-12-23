@@ -1,0 +1,40 @@
+
+body{
+  font-family:"Montserrat";
+  color:white;
+  text-align:center;
+  background-color:#0d073d;
+  border: 60px solid #29d0d9;
+  border-top: 0px;
+  /*border-bottom:0px: 0px;*/
+  margin: 0px;
+}
+
+p{
+    color: white;
+    padding-top: 5%;
+    padding-left: 20% ;
+    padding-right: 20%;
+}
+
+.userinput{
+    
+    font-size: 1.5em;
+    margin-bottom: 5px;
+}
+
+
+h2{
+    color: white;
+    margin-bottom: 5%;
+}
+
+#sub{
+    border-radius: 25px;
+    background-color: chocolate;
+    height: 80px;
+    width: 150px;
+    font-family:"Monsterrat";
+    font-size: 1.2em;
+    margin-bottom: 4px;
+}
